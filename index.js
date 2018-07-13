@@ -15,7 +15,7 @@ function nestedTarget(){
  // }
 //}
 
-function deepstChild(){
+function deepestChild(){
 return document.deepestChild.querySelector('#grand-node div div div div')
 
 }
