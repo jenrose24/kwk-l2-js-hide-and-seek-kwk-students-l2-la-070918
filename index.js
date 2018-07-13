@@ -10,11 +10,12 @@ function nestedTarget(){
 function increaseRankBy(n){
 const list = document.querySelectorAll (".ranked-list")
 
-  for (let i = 0; i < i++;)
-  rankedlist[i].innerHTML = (i + 1)
+  //for (let i = 0; i < i++;) {
+ // rankedlist[i].innerHTML = (i + 1)
+ // }
 }
 
-function deepstChild()
+function deepstChild(){
 document.deepestChild.querySelector('#grand-node div div div div')
 
 }
