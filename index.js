@@ -14,6 +14,6 @@ const list = document.querySelectorAll (".ranked-list")
   rankedlist[i].innerHTML = (i + 1)
 }
 
-function document.deepestChild('div.grand-node div div div div'){
+function document.deepestChild('grand-node div div div div'){
 
 }
